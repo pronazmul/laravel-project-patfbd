@@ -2,7 +2,7 @@
 
 # Paramedical & Technology Foundation (PATF)
 
-## Details
+## About
 This is a paramedical diploma educational institute management system.  
 [Clients-Side](https://www.patfbd.com/)<br>
 [Admin-Panel](https://result.patfbd.com/)
