@@ -9,7 +9,7 @@ This is a paramedical diploma educational institute management system.
 
 ## Features 
 - Admin can manage application from back end.
-- Admin can add students information & Their result from back end. google map. 
+- Admin can add students information & Their result from back end.
 - Students can check their result from Client-Side.
 
 ## Technology
