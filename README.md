@@ -1,6 +1,6 @@
  
 
-# Paramedical & Technology Foundation (PATF), Jessore 
+# Paramedical & Technology Foundation (PATF)
 
 ## Details
 This is a paramedical diploma educational institute management system.  
