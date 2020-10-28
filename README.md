@@ -1,11 +1,27 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+ 
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+# Paramedical & Technology Foundation (PATF), Jessore 
+
+## Details
+This is a paramedical diploma educational institute. Students data & result can be updated from backend. Student can check their result from clientside. 
+
+
+## clients
+- This is a booking website for hotels
+- Clients can see the details about the destination and closest hotels using google map. 
+- Clients will need to login with their information in order to book a hotel room.
+
+
+
+## Technology
+
+- react.js
+- JavaScript
+- Bootstrap
+- HTML
+- CSS
+
+[Live-site](travel-guru-shabnam.web.app/)
 
 ## About Laravel
 
